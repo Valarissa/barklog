@@ -6,4 +6,5 @@ be uploaded to github to provide timestamp tracking.
 * 2024-02-25 - 10:26pm - 2-3 barks due to a wolf on the TV. Total time: 5 seconds
 * 2024-02-26 - 12:30pm - 2 barks due to coming back from the store. Total time: 5 seconds
 * 2024-02-26 - 07:20pm - 3 barks due to coming back from the store. Total time: 10 seconds
-
+* 2024-02-27 - 05:13pm - 4 barks due to coming back from work. Total time: 30 seconds
+* 2024-02-29 - 02:34pm - 8 barks due to coming back from work. Total time: 30 seconds
