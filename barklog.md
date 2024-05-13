@@ -18,3 +18,7 @@ be uploaded to github to provide timestamp tracking.
 * 2024-03-07 - 05:23pm - 6 barks due to coming back from work. Total time: 45 seconds
 * 2024-03-08 - 10:25am - 4 barks due to wanting to go outside. Total time: 20 seconds
 * 2024-03-08 - 04:25pm - 12 barks due to another dog barking. Total time: 35 seconds
+
+...
+
+* 2024-05-12 - 10:44pm - 2 barks due to animal-like entity on screen. Total time: 2 seconds
