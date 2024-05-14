@@ -22,3 +22,4 @@ be uploaded to github to provide timestamp tracking.
 ...
 
 * 2024-05-12 - 10:44pm - 2 barks due to animal-like entity on screen. Total time: 2 seconds
+* 2024-05-13 - 09:34pm - 1 bark, overly excited about a treat. Total time: 1 second
